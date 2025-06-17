@@ -44,3 +44,6 @@ Para rodar o jogo:
 3. Não necessita de servidor ou conexão com internet, funcionando totalmente offline.
 
 Separar corretamente o lixo é um passo fundamental para preservar o meio ambiente e garantir um futuro mais sustentável.
+
+
+#AGRINHO2025.
